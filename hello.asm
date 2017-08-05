@@ -18,5 +18,5 @@ start:
 
 section .data
 
-msg:    db      "Hello, world!", 10
+msg:    db      "Hi!", 53
 .len:   equ     $ - msg
